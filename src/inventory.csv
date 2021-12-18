@@ -1,0 +1,14 @@
+Quantity,Category,ItemName,Price
+10,Food,Plain Croissants,3.50
+15,Food,Chocolate Croissants,3.50
+10,Food,Almond Croissants,3.50
+20,Food,Chocolate Peanut Butter Cupcakes, 4.00
+10,Food,Dark Chocolate Almond Butter Cups, 3.50
+3,Food,GF Chocolate Chip Muffins, 4.50
+3,Food,Vegan GF Lemon Blueberry Muffins, 4.50
+5,Food,Birthday Cake Pops,2.00
+-,Drink,Hot,Cortado,3.00
+-,Drink,Hot,Americano,3.50
+-,Drink,Iced,Americano,3.50
+
+
